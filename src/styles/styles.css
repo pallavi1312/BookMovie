@@ -1,0 +1,39 @@
+body{
+    background-color: beige;
+}
+nav {
+    font-size: 26px;
+    font-family: cursive;
+    margin-top: 52px;
+    font-weight:bold;
+}
+
+.table {
+    display:table;
+    border: 2px solid cadetblue;
+}
+.header {
+    display:table-header-group;
+    font-weight:bold;
+
+}
+.rowGroup {
+    display:table-row-group;
+}
+.row {
+    display:table-row;
+}
+.cell {
+    margin:10px;
+}
+
+.top {
+    text-align: -webkit-center;
+    font-size: 22px;
+    font-family: cursive;
+    color: #cc1c1c;
+}
+
+.movie{
+    text-align: -webkit-center;
+}
